@@ -1,2 +1,2 @@
 # mi-primer-repo
-estudiando token sena 
+estudiando el cimi desarollo de software y aprendiendo Git y GitHub
